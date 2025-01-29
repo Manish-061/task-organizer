@@ -2,6 +2,9 @@
 
 A simple yet efficient task management application to help users organize and track their daily tasks. This application allows users to add, update, delete, and mark tasks as completed. It provides a clean and user-friendly interface to manage tasks effectively.
 
+You can access the live version of the app here: [Task Organizer - Live Demo]([http://your-deployed-link.com](https://task-organizer-kappa.vercel.app/))
+
+
 ## Features
 
 - **Add Task**: Users can create new tasks with descriptions.
@@ -15,10 +18,6 @@ A simple yet efficient task management application to help users organize and tr
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
 
 ### Clone the repository
 git clone https://github.com/your-username/task-organizer.git
